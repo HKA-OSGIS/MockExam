@@ -11,6 +11,9 @@ for the 2026/2027 Open Source GIS course at H-KA.
 
 ## Topics from session 2
 
+* [Tiled Web Maps](tiled_web_maps.md)
+
+
 ## Topics from session 3
 
 ## Topics from session 4
