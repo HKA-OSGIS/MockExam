@@ -8,6 +8,7 @@ for the 2026/2027 Open Source GIS course at H-KA.
 
 * [Licenses](licenses.md)
 * [Share-Alike](share_alike.md)
+* [Selling software under GPL license](gpl_selling.md)
 
 ## Topics from session 2
 
