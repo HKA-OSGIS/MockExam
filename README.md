@@ -18,6 +18,8 @@ for the 2026/2027 Open Source GIS course at H-KA.
 * [Tiled Web Maps](tiled_web_maps.md)
 
 
+* [Git-Remote](command_git_remote.md)
+
 ## Topics from session 3
 
 * [html](html_file.md)
