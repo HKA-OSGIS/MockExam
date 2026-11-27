@@ -1,6 +1,7 @@
 
 # Mock Exam
 
+
 This project collects potential exam questions
 for the 2026/2027 Open Source GIS course at H-KA.
 
@@ -9,10 +10,18 @@ for the 2026/2027 Open Source GIS course at H-KA.
 * [Licenses](licenses.md)
 * [Share-Alike](share_alike.md)
 * [Selling software under GPL license](gpl_selling.md)
+* [OSGeo](osgeo.md)
 
 ## Topics from session 2
+* [standard](standar.md)
+
+* [Standards](standard_2.md)
+* [Tiled Web Maps](tiled_web_maps.md)
+
 
 ## Topics from session 3
 
+* [html](html_file.md)
+* [Local-server](local_server.md)
 ## Topics from session 4
 
