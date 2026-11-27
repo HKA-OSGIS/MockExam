@@ -8,6 +8,7 @@ for the 2026/2027 Open Source GIS course at H-KA.
 
 * [Licenses](licenses.md)
 * [Share-Alike](share_alike.md)
+* [OSGeo](osgeo.md)
 
 ## Topics from session 2
 
