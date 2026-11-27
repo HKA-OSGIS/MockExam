@@ -11,6 +11,7 @@ for the 2026/2027 Open Source GIS course at H-KA.
 * [Share-Alike](share_alike.md)
 * [OSGeo](osgeo.md)
 
+* [Four Freedoms](freedoms.md)
 ## Topics from session 2
 * [standard](standar.md)
 
